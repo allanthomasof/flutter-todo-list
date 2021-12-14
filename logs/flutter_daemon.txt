@@ -1,0 +1,33 @@
+!! PLEASE REVIEW THIS LOG FOR SENSITIVE INFORMATION BEFORE SHARING !!
+
+Dart Code extension: 3.29.0
+Flutter extension: 3.29.0 (activated)
+
+App: Visual Studio Code
+Version: 1.63.0
+Platform: mac
+
+HTTP_PROXY: undefined
+NO_PROXY: undefined
+
+Logging Categories:
+    FlutterDaemon
+
+Tue Dec 14 2021 [12:25:31 GMT-0300 (Brasilia Standard Time)] Log file started
+[12:25:31 PM] [FlutterDaemon] [Info] Spawning /Users/allanfranco/Downloads/flutter/bin/flutter with args ["daemon"]
+[12:25:31 PM] [FlutterDaemon] [Info] ..  in /Users/allanfranco/Downloads/flutter
+[12:25:31 PM] [FlutterDaemon] [Info] ..  with {"toolEnv":{"FLUTTER_HOST":"VSCode","PUB_ENVIRONMENT":"vscode.dart-code"}}
+[12:25:31 PM] [FlutterDaemon] [Info]     PID: 26197
+[12:25:31 PM] [FlutterDaemon] [Info] ==> [{"id":"1","method":"emulator.getEmulators"}]
+[12:25:33 PM] [FlutterDaemon] [Info] <== [{"event":"daemon.connected","params":{"version":"0.6.1","pid":26843}}]
+[12:25:33 PM] [FlutterDaemon] [Info] ==> [{"id":"2","method":"device.enable"}]
+[12:25:33 PM] [FlutterDaemon] [Info] <== [{"event":"daemon.logMessage","params":{"level":"status","message":"Starting device daemon..."}}]
+[12:25:34 PM] [FlutterDaemon] [Info] <== [{"id":"2"}]
+[12:25:35 PM] [FlutterDaemon] [Info] <== [{"id":"1","result":[{"id":"apple_ios_simulator","name":"iOS Simulator","category":"mobile","platformType":"ios"},{"id":"Galaxy_Nexus_API_29_Tela_Media_","name":"Galaxy Nexus API 29 (Tela Media)","category":"mobile","platformType":"android"},{"id":"Nexus_S_API_29_Tela_Menor_","name":"Nexus S API 29 (Tela Menor)","category":"mobile","platformType":"android"},{"id":"Pixel_3_API_29","name":"Pixel 3 API 29","category":"mobile","platformType":"android"},{"id":"Pixel_3_API_31","name":"Pixel 3 API 31","category":"mobile","platformType":"android"},{"id":"Pixel_4_XL_API_29","name":"Pixel 4 XL API 29","category":"mobile","platformType":"android"},{"id":"Pixel_4_XL_API_31","name":"Pixel 4 XL API 31","category":"mobile","platformType":"android"}]}]
+[12:25:37 PM] [FlutterDaemon] [Info] <== [{"event":"device.added","params":{"id":"emulator-5554","name":"Android SDK built for arm64","platform":"android-arm64","emulator":true,"category":"mobile","platformType":"android","ephemeral":true,"emulatorId":"Pixel_4_XL_API_29"}}]
+[12:25:37 PM] [FlutterDaemon] [Info] ==> [{"id":"3","method":"daemon.getSupportedPlatforms","params":{"projectRoot":"/Users/allanfranco/dev/flutter/myapp"}}]
+[12:25:37 PM] [FlutterDaemon] [Info] <== [{"id":"3","result":{"platforms":["ios","android","web"]}}]
+[12:25:38 PM] [FlutterDaemon] [Info] <== [{"event":"device.added","params":{"id":"chrome","name":"Chrome","platform":"web-javascript","emulator":false,"category":"web","platformType":"web","ephemeral":false,"emulatorId":null}}]
+[12:26:16 PM] [FlutterDaemon] [Info] ==> [{"id":"4","method":"daemon.shutdown"}]
+[12:26:16 PM] [FlutterDaemon] [Info] <== [{"id":"4"}]
+Tue Dec 14 2021 [12:26:16 GMT-0300 (Brasilia Standard Time)] Log file ended

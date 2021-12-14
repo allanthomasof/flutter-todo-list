@@ -1,0 +1,17 @@
+!! PLEASE REVIEW THIS LOG FOR SENSITIVE INFORMATION BEFORE SHARING !!
+
+Dart Code extension: 3.29.0
+Flutter extension: 3.29.0 (activated)
+
+App: Visual Studio Code
+Version: 1.63.0
+Platform: mac
+
+HTTP_PROXY: undefined
+NO_PROXY: undefined
+
+Logging Categories:
+    DAP
+
+Tue Dec 14 2021 [12:25:31 GMT-0300 (Brasilia Standard Time)] Log file started
+Tue Dec 14 2021 [12:26:16 GMT-0300 (Brasilia Standard Time)] Log file ended
