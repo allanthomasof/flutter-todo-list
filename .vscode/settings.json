@@ -1,14 +1,14 @@
 {
 	"debug.openDebug": "openOnDebugBreak",
 	"editor.tabSize": 2,
-	// "editor.fontSize": 11,
+	// "editor.fontSize": 13,
 	"editor.letterSpacing": 0.3,
 	// "editor.lineHeight": 20,
 	"editor.insertSpaces": true,
 	"editor.formatOnSave": true,
 	"editor.formatOnType": true,
 	"editor.rulers": [
-		120
+		130
 	],
 	"editor.selectionHighlight": false,
 	"editor.suggest.snippetsPreventQuickSuggestions": false,
